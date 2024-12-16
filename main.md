@@ -20,4 +20,4 @@
 
 [Это сайт нашего университета](https://mguu.ru/)
 
-
+![image](https://i.pinimg.com/736x/64/82/2f/64822f2a8689188389532a8db75acc40.jpg)
